@@ -1,0 +1,13 @@
+C:\Users\Keven\OneDrive\Escritorio\Thread Pooling C#\ThreadPoolSampleCsharp\ThreadEjemplo2\bin\Debug\netcoreapp3.1\ThreadEjemplo2.exe
+C:\Users\Keven\OneDrive\Escritorio\Thread Pooling C#\ThreadPoolSampleCsharp\ThreadEjemplo2\bin\Debug\netcoreapp3.1\ThreadEjemplo2.deps.json
+C:\Users\Keven\OneDrive\Escritorio\Thread Pooling C#\ThreadPoolSampleCsharp\ThreadEjemplo2\bin\Debug\netcoreapp3.1\ThreadEjemplo2.runtimeconfig.json
+C:\Users\Keven\OneDrive\Escritorio\Thread Pooling C#\ThreadPoolSampleCsharp\ThreadEjemplo2\bin\Debug\netcoreapp3.1\ThreadEjemplo2.runtimeconfig.dev.json
+C:\Users\Keven\OneDrive\Escritorio\Thread Pooling C#\ThreadPoolSampleCsharp\ThreadEjemplo2\bin\Debug\netcoreapp3.1\ThreadEjemplo2.dll
+C:\Users\Keven\OneDrive\Escritorio\Thread Pooling C#\ThreadPoolSampleCsharp\ThreadEjemplo2\bin\Debug\netcoreapp3.1\ThreadEjemplo2.pdb
+C:\Users\Keven\OneDrive\Escritorio\Thread Pooling C#\ThreadPoolSampleCsharp\ThreadEjemplo2\obj\Debug\netcoreapp3.1\ThreadEjemplo2.csprojAssemblyReference.cache
+C:\Users\Keven\OneDrive\Escritorio\Thread Pooling C#\ThreadPoolSampleCsharp\ThreadEjemplo2\obj\Debug\netcoreapp3.1\ThreadEjemplo2.AssemblyInfoInputs.cache
+C:\Users\Keven\OneDrive\Escritorio\Thread Pooling C#\ThreadPoolSampleCsharp\ThreadEjemplo2\obj\Debug\netcoreapp3.1\ThreadEjemplo2.AssemblyInfo.cs
+C:\Users\Keven\OneDrive\Escritorio\Thread Pooling C#\ThreadPoolSampleCsharp\ThreadEjemplo2\obj\Debug\netcoreapp3.1\ThreadEjemplo2.csproj.CoreCompileInputs.cache
+C:\Users\Keven\OneDrive\Escritorio\Thread Pooling C#\ThreadPoolSampleCsharp\ThreadEjemplo2\obj\Debug\netcoreapp3.1\ThreadEjemplo2.dll
+C:\Users\Keven\OneDrive\Escritorio\Thread Pooling C#\ThreadPoolSampleCsharp\ThreadEjemplo2\obj\Debug\netcoreapp3.1\ThreadEjemplo2.pdb
+C:\Users\Keven\OneDrive\Escritorio\Thread Pooling C#\ThreadPoolSampleCsharp\ThreadEjemplo2\obj\Debug\netcoreapp3.1\ThreadEjemplo2.genruntimeconfig.cache
